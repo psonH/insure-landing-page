@@ -41,7 +41,7 @@ There is also a `style-guide.md` file, which contains the information you'll nee
 
 The Insure Landing Page has been developed in React JS using bootstrap library for UI and had been deployed on Netlify.
 
-[Link to the Final Project](insure-landing-page-pson.netlify.app/)
+[Link to the Final Project](https://insure-landing-page-pson.netlify.app/)
 
 ## Community Sponsors
 
